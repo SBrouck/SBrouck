@@ -1,6 +1,6 @@
 ### Sacha Brouck
 
-AI engineer in Paris. I work on LLM agents, their evaluation, and machine learning on relational and tabular data. Site: [sbrouck.org](https://sbrouck.org).
+AI engineer in Paris, working on ML and systems engineering: LLM agents, their evaluation, and the infrastructure that runs them in production. My foundation is in data engineering. Site: [sbrouck.org](https://sbrouck.org).
 
 **Research projects**
 - [rfm-cooccurrence-recency-probe](https://github.com/SBrouck/rfm-cooccurrence-recency-probe): controlled reproduction of a KumoRFM-2 claim. Tests whether a hosted relational foundation model captures row-level co-occurrence and dependence on the most recent row.
